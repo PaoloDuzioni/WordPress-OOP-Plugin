@@ -1,0 +1,18 @@
+{
+    "name": "ste/paolo-plugin",
+    "description": "My OOP developed plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "PaoloDuzioni",
+            "email": "paolo.duzioni@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}

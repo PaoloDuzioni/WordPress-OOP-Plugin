@@ -1,0 +1,1 @@
+<h1>Paolo Plugin <small>v1.0.0</small></h1>
